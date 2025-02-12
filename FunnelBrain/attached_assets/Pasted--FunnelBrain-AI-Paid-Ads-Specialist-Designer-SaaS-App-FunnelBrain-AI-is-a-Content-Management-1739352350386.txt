@@ -1,0 +1,82 @@
+# FunnelBrain AI – Paid Ads Specialist & Designer SaaS App
+
+FunnelBrain AI is a **Content Management System (CMS) SaaS app** designed to serve as a paid media specialist and designer. It empowers marketers to create, manage, and optimize paid ads across multiple channels (LinkedIn, Google Ads, X Ads, Instagram, and Facebook) with a strong emphasis on design and performance. The app integrates AI to generate full-funnel marketing strategies and provides actionable insights to improve ad performance.
+
+---
+
+## App Flow and Features
+
+### **1. Landing Page**
+When users open the web app, they land on a **modern and sleek landing page** that includes:
+- **Overview**: A brief description of FunnelBrain AI’s features and benefits.
+- **Pricing**: Details about the **Free Version** and **Plus Version**.
+  - **Free Version**: Limited ad creations, basic analytics, and access to a few templates.
+  - **Plus Version**: Unlimited ad creations, advanced analytics, AI-powered strategy generation, and custom templates.
+- **Sign-Up Button**: Users can sign up for either plan, which redirects them to the **main dashboard**.
+
+---
+
+### **2. Main Dashboard**
+After signing up, users are taken to the **main dashboard**, which serves as the central hub for all activities. The dashboard includes:
+
+#### **a. Toolbar (Sidebar)**
+The toolbar on the left side provides quick access to key features:
+- **Create Ads**: Opens the ad creation tool.
+- **Ad Analytics**: Displays performance data for ads.
+- **AI Strategy**: Generates full-funnel marketing strategies.
+- **Settings**: Manage account details, integrations, and preferences.
+
+#### **b. Ad Creation Tool (Center)**
+The center of the dashboard is dedicated to **creating ads**. This tool is similar to Canva but more modern and sleek, with features like:
+- **Templates**: Pre-designed templates for different ad channels and funnel stages.
+- **Custom Designs**: Users can upload their own SVGs or design files to create ads.
+- **Ad Variants**: Automatically generates ads in all required sizes for LinkedIn, Google Ads, X Ads, Instagram, and Facebook.
+- **Drag-and-Drop Interface**: Intuitive design tools for customizing ads (fonts, colors, images, etc.).
+
+#### **c. Ad Analytics**
+Clicking on the **Ad Analytics** tab opens a new page that displays:
+- **Performance Data**: Fetches data from connected ad accounts (via API) to show metrics like CTR, CPC, conversions, and ROI.
+- **Week-on-Week Stats**: A breakdown of PPC KPIs with filters to view specific data (e.g., by channel, date range, or campaign).
+- **Insights**: Highlights which creatives are working and which aren’t, with actionable recommendations.
+
+#### **d. AI Strategy Generator**
+The **AI Strategy** tab integrates with **DeepSeek or ChatGPT** to:
+- Generate **full-funnel marketing strategies** based on user input (e.g., target audience, budget, goals).
+- Provide **ad copy variants** that adhere to each platform’s policies (e.g., character limits, prohibited content).
+- Suggest **optimizations** for existing campaigns.
+
+---
+
+### **3. Settings**
+The **Settings** tab allows users to:
+- Manage **account details** (e.g., email, password).
+- Connect **ad accounts** (e.g., Facebook Ads, Google Ads) for analytics and performance tracking.
+- Customize **preferences** (e.g., default templates, design settings).
+
+---
+
+### **4. Scalability**
+FunnelBrain AI is designed to be **modular**, allowing new features to be added over time, such as:
+- Additional **ad channels** (e.g., TikTok, Pinterest).
+- Advanced **AI features** (e.g., predictive analytics, dynamic ad optimization).
+- **Collaboration tools** for teams and agencies.
+
+---
+
+## Key Features Summary
+- **Ad Creation**: Design ads in all required sizes for LinkedIn, Google Ads, X Ads, Instagram, and Facebook.
+- **Performance Analytics**: Track ad performance with week-on-week stats and actionable insights.
+- **AI Strategy**: Generate full-funnel marketing strategies and ad copy variants.
+- **Custom Templates**: Upload SVGs or design files to create custom templates.
+- **Scalable Architecture**: Modular design for future feature additions.
+
+---
+
+## Next Steps
+1. **Build the MVP**: Focus on core features (ad creation, analytics, AI strategy).
+2. **Test with Beta Users**: Gather feedback from paid media specialists and designers.
+3. **Iterate and Scale**: Add new features based on user feedback and market demand.
+
+---
+
+FunnelBrain AI is the ultimate tool for marketers and designers looking to streamline their paid ad workflows, optimize performance, and leverage AI for smarter strategies.
